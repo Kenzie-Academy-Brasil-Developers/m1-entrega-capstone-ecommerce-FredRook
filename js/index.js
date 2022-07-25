@@ -1,4 +1,4 @@
-vercel --build-env CI=falselet quantidade = 0
+let quantidade = 0
 
 let total = 0
 
